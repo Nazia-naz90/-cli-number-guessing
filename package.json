@@ -1,0 +1,23 @@
+{
+  "name": "313nazia-cli-number-guessing",
+  "version": "3.0.6",
+  "description": "This is a number guessing project.",
+  "main": "index.js",
+  "type": "module",
+  "publishing": {
+    "access": "public"
+  },
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "313nazia-cli-number-guessing": "^1.0.1",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
